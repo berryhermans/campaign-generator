@@ -1,0 +1,37 @@
+{
+    "templates": [
+        "@patron@ hires you to @goal@",
+        "a @monster@ has stolen @patron@'s prized @item@",
+        "@location@, a @monster@ prepares to @goal@"
+    ],
+    "goal": [
+        "return the long lost @item@",
+        "slay the @monster@ @location@",
+        "establish an outpost @location@"
+    ],
+    "item": [
+        "@material@ sword",
+        "armour made of @material@",
+        "ring of @monster@-slaying"
+    ],
+    "location": [
+        "in a faraway kingdom",
+        "in the swamp",
+        "below the city"
+    ],
+    "material": [
+        "gold",
+        "iron",
+        "terracotta"
+    ],
+    "monster": [
+        "dragon",
+        "demon",
+        "lich"
+    ],
+    "patron": [
+        "the adventuring guild",
+        "a wizard",
+        "the king"
+    ]
+}
